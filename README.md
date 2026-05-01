@@ -21,6 +21,7 @@ The main objective was to improve the performance of a baseline YOLOv8s model by
 ---
 
 ## 📊 Dataset
+LINK: https://www.kaggle.com/datasets/karaagroaiprojects/cadi-ai
 - Format: YOLO object detection format
 - Splits:
   - Train: 3788 images
